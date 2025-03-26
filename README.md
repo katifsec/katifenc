@@ -28,7 +28,7 @@
 
 ### ✅ Clone from GitHub
 ```bash
-git clone https://github.com/your-username/KatifEnc.git
+git clone https://github.com/katifsec/KatifEnc.git
 cd KatifEnc
 pip install -r requirements.txt
 python3 katifenc.py
